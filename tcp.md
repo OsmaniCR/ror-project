@@ -1,0 +1,1 @@
+TCP (Transmission Control Protocol) es un protocolo de comunicación orientado a conexión que garantiza la entrega confiable y ordenada de datos entre aplicaciones en una red. Establece una conexión antes de transmitir y verifica la recepción correcta de los paquetes.

@@ -1,0 +1,1 @@
+HTTP (Hypertext Transfer Protocol) es un protocolo de comunicación que permite la transferencia de información entre clientes y servidores web. Define métodos como GET, POST, PUT y DELETE para realizar operaciones sobre recursos identificados por URLs.
